@@ -1,8 +1,5 @@
 # MPCE - Monthly Per Capita Consumption Expenditure
 
-**Authors:** 
-Akshit Choudhary, Disha Shimpi, Manthan Hirani, Mihir Modi, Aditya Trivedi
-
 The Household Consumption Expenditure Survey (HCES) collects data on household consumption patterns, living standards, and demographics across India. Conducted in 2022-23, it covered 2,61,746 households from 8,723 villages and 6,115 urban blocks, helping derive economic indicators and Consumer Price Indices (CPIs).
 
 ## Table of Contents
