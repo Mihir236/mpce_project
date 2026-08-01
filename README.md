@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-Analyzes Monthly Per Capita Consumer Expenditure (MPCE) patterns across different demographics.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: National Sample Survey Office (NSSO) MPCE dataset
-* **Size**: 25,000+ consumer profiles
-
-### 2. Method & Approach
-* **Approach**: Demographic segmentation, expenditure clustering, and descriptive statistical modeling
-* **Metric/Result**: Identified top 3 expenditure drivers, explaining 72% of rural-urban spending variance
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python, pandas, matplotlib, Jupyter Notebook
-
-### ✨ Differentiating Features
-- **Maps localized consumption baskets showing disparity ratios between various income groups**
+* **Overview**: "Analyzes Monthly Per Capita Consumer Expenditure (MPCE) patterns across different demographics."
+* **Dataset**: "National Sample Survey Office (NSSO) MPCE dataset, 25,000+ consumer profiles"
+* **Method**: "Demographic segmentation, expenditure clustering, and descriptive statistical modeling"
+* **Results**: "Identified top 3 expenditure drivers, explaining 72% of rural-urban spending variance"
+* **Tech stack**: "Python, pandas, matplotlib, Jupyter Notebook"
+* **Unique feature**: "Maps localized consumption baskets showing disparity ratios between various income groups"
 
 ---
 
